@@ -1,11 +1,11 @@
 # Códigos de Python implementados en la simulación.
 
-* ScaraController.py: Proceso de dosificación e incubadora.
+* ScaraController.py: proceso de dosificación e incubadora.
 
-* MqttListener.py: Enrutador MQTT.
+* MqttListener.py: enrutador MQTT.
 
-* MqttSqlLogger.py: Persistencia SQL.
+* MqttSqlLogger.py: persistencia SQL.
 
-* PresenciaSoporte.py: Sensor virtual de presencia.
+* PresenciaSoporte.py: sensor virtual de presencia.
 
-* RobotController.py: Proceso posterior a incubadora.
+* RobotController.py: proceso posterior a incubadora.
